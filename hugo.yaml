@@ -1,5 +1,5 @@
 baseURL: ''
-title: TailBliss
+title: EscapeBot
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -47,33 +47,33 @@ markup:
       xhtml: false
 
 params:
-  author: Nusser Studios
+  author: EscapeBot
   authorimage: ../assets/images/global/author.webp
-  og_image: /images/tailbliss-cover.png
-  moto: "Super Fast, and Flexible"
-  description: "A Hugo theme built with love, using TailwindCSS 3, Alpine.JS, and Hugo Pipes. Images are optimized for use with Hugo Pipes for WebP format."
+  og_image: /images/escapebot-cover.png
+  moto: "Financial Forecasting Reimagined"
+  description: "A multi-layered tool for forecasting financial performance and identifying investment insights. Features include sector-level analysis, earnings transcripts evaluation, valuation models, and market pattern recognition."
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
   p1:
-    heading: "Our mission"
+    heading: "Our Mission"
     image: "images/pages/our-mission.png"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
-      - text: "Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna. Sollicitudin tristique eroserat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna."
-      - text: "Rhoncus nisl, libero egestas diam fermentum dui. At quis tincidunt vel ultricies. Vulputate aliquet velit faucibus semper. Pellentesque in venenatis vestibulum consectetur nibh id. In id ut tempus egestas. Enim sit aliquam nec, a. Morbi enim fermentum lacus in. Viverra."
+      - text: "EscapeBot is democratizing access to sophisticated financial analysis tools that were previously only available to large hedge funds. We're bringing advanced investment insights to everyday investors through cutting-edge machine learning and comprehensive data integration."
+      - text: "Our platform combines structured and unstructured data to create a holistic, scalable approach to financial analysis. With sector-level company fundamentals, earnings transcript analysis, and pattern recognition, we provide insights that go beyond traditional analysis methods."
+      - text: "We believe in transparency, community, and continuous innovation. Our platform is designed to evolve with market conditions and user needs, always pushing the boundaries of what's possible in financial forecasting."
   p2:
-    heading: "Just in time for Hacktoberfest with JIT Tailwind."
-    image: "images/pages/hacktoberfest.jpg"
+    heading: "Our Commitment to You"
+    image: "images/pages/bull.png"
     content:
-      - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at purus non enim commodo tincidunt vel in nulla. Aenean pretium dolor non ultricies bibendum. Etiam quis blandit enim. Nunc condimentum ut lorem in faucibus. Phasellus varius ligula et commodo tristique. Nunc sodales nisl nec laoreet vehicula. Donec velit nibh, sollicitudin at nulla a, egestas dignissim eros. Sed lacinia hendrerit interdum. Vestibulum pellentesque sem venenatis nisl tempor accumsan sit amet tempus felis. Mauris leo diam, porttitor nec bibendum id, tempus ac nulla. Etiam congue ornare erat at convallis. Donec in nisi dapibus, mattis risus vel, imperdiet enim. Donec fermentum sit amet tortor nec tincidunt. Nam nec lectus tortor. Nunc sit amet laoreet orci, porta ornare massa. Phasellus eget lorem mi. Nam eleifend ultricies sapien, quis mollis leo bibendum at. Quisque viverra lorem sit amet magna aliquet, et dignissim arcu eleifend."
+      - text: "We're in the business of democratizing what Wall Street wants to keep for itself. For too long, sophisticated financial analysis has been locked behind institutional walls, accessible only to those with deep pockets and industry connections. EscapeBot is changing that paradigm. Our cutting-edge algorithms and multi-layered analysis provide you with the same caliber of insights previously reserved for hedge fund elites. We don't just level the playing field—we tilt it in your favor with tools that extract signal from noise, identify hidden patterns, and forecast market movements with remarkable precision. This isn't just about building another financial tool—it's about fundamentally transforming how individual investors access and leverage financial intelligence."
   p3:
-    heading: "Backed by world-renowned investors"
+    heading: "Why We're Different"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
+      - text: "Unlike other financial tools, we offer a holistic platform that combines broker services, data vending, and analytics in one seamless ecosystem. Our customizable yet robust architecture gives you freedom to override picks or tailor risk profiles while maintaining our well-tested ML engine as a safety net."
     links:
-      - text: Meet our investors and advisors
-        url: "#"
+      - text: Learn more about our approach
+        url: "/about"
     logos:
       - identifier: a
         image: "images/global/sample-logo.svg"
@@ -84,17 +84,17 @@ params:
       - identifier: e
       - identifier: f
   p4:
-    heading: "From the blog"
+    heading: "Get The Latest"
     content:
-      - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+      - text: "Our research community fosters shared knowledge and collective improvement through articles, blogs, and premium investigative content."
   p5:
     heading: "Stay Up to Date"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque."
+      - text: "Join our community and receive the latest insights, model updates, and financial forecasts directly in your inbox."
     action: "#"
     label: "Email address"
     placeholder: "Enter your email"
-    button: "Notify me"
+    button: "Subscribe"
 
   social_media:
     github:
@@ -113,70 +113,82 @@ params:
 
 menu:
   main:
-    - identifier: prose
-      name: Prose
-      url: /prose/
+    - identifier: platform
+      name: Platform
+      url: /platform/
       weight: 10
+    - identifier: features
+      pre: dropdown
+      name: Features
+      weight: 20
+    - identifier: research
+      name: Research
+      url: /research/
+      weight: 30
+    - identifier: community
+      name: Community
+      url: /community/
+      weight: 40
     - identifier: about
       name: About
       url: /about/
-      weight: 20
-    - identifier: categories
-      pre: dropdown
-      name: Categories
-      weight: 30
-    - identifier: dropdown
-      pre: complexdropdown
-      name: Dropdown
-      weight: 40
+      weight: 50
     - identifier: contact
       name: Contact
       url: /contact/
-      weight: 50
-  categories:
-    - identifier: prose
-      name: Prose
-      url: /prose/
+      weight: 60
+  features:
+    - identifier: fundamentals
+      name: Fundamental Analysis
+      url: /features/fundamentals/
       weight: 10
-    - identifier: about
-      name: About
-      url: /about/
+    - identifier: earnings
+      name: Earnings Transcript Analysis
+      url: /features/earnings/
       weight: 20
+    - identifier: valuation
+      name: Valuation Models
+      url: /features/valuation/
+      weight: 30
+    - identifier: patterns
+      name: Market Pattern Recognition
+      url: /features/patterns/
+      weight: 40
   dropdown:
-    - identifier: appearance
-      pre: stars # can be stars, comments or piechart
-      name: Appearance
-      post: "Easy customization"
-      url: "#"
+    - identifier: dashboard
+      pre: piechart
+      name: Dashboard
+      post: "Your financial overview"
+      url: "/dashboard/"
       weight: 10
-    - identifier: comments
-      pre: comments # can be stars, comments or piechart
-      name: Comments
-      post: "Check your latest comments"
-      url: "#"
+    - identifier: portfolio
+      pre: stars
+      name: Portfolio
+      post: "Track your investments"
+      url: "/portfolio/"
       weight: 20
-    - identifier: analytics
-      pre: piechart # can be stars, comments or piechart
-      name: Analytics
-      post: "Take a look at your statistics"
-      url: "#"
+    - identifier: alerts
+      pre: comments
+      name: Alerts
+      post: "Stay updated on market changes"
+      url: "/alerts/"
       weight: 30
   footer:
     - identifier: about
       name: About
       url: /about/
       weight: 10
-    - identifier: blog
-      name: Blog
-      url: /categories/blog/
+    - identifier: features
+      name: Features
+      url: /features/
       weight: 20
-    - identifier: news
-      name: News
-      url: /categories/news/
+    - identifier: research
+      name: Research
+      url: /research/
       weight: 30
-    - identifier: prose
-      name: Prose
-      url: /prose/
+    - identifier: community
+      name: Community
+      url: /community/
       weight: 40
     - identifier: contact
       name: Contact

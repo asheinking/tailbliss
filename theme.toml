@@ -1,23 +1,23 @@
-name = "TailBliss"
+name = "EscapeBot"
 license = "Apache-2.0"
-licenselink = "https://github.com/nusserstudios/tailbliss/blob/main/LICENSE"
-description = "TailBliss is an Hugo Starter with Tailwind CSS 3.2 and Alpine.js with light and dark modes. Submitted for Hacktoberfest 2022."
+licenselink = "https://github.com/escapebot/escapebot/blob/main/LICENSE"
+description = "EscapeBot is a multi-layered tool for forecasting financial performance and identifying investment insights. Features include sector-level analysis, earnings transcripts evaluation, valuation models, and market pattern recognition."
 
 # The home page of the theme, where the source can be found.
-homepage = "https://github.com/nusserstudios/tailbliss"
+homepage = "https://github.com/escapebot/escapebot"
 
 # If you have a running demo of the theme.
-demosite = "https://tailbliss.netlify.app/"
+demosite = "https://escapebot.com/"
 
-tags = ["blog", "tailwind", "tailwindcss", "dark", "light", "responsive", "minimal", "portfolio", "company", "gallery", "personal" ]
-features = ["blog", "categories", "webp", "tailwind3", "alpinejs"]
+tags = ["finance", "investing", "analytics", "forecasting", "machine-learning", "financial-analysis", "portfolio", "trading", "stocks", "quant", "fundamental-analysis" ]
+features = ["sector-analysis", "earnings-analysis", "valuation-models", "pattern-recognition", "community", "research"]
 
 min_version = "0.104.0"
 
 # If the theme has a single author
 [author]
-    name = "Jeremy Nusser"
-    homepage = "https://nusserstudios.com"
+    name = "EscapeBot Team"
+    homepage = "https://escapebot.com"
 
 # If porting an existing theme
 [original]
