@@ -95,6 +95,13 @@ params:
     label: "Email address"
     placeholder: "Enter your email"
     button: "Subscribe"
+  p6:
+    heading: "Join Our Discord Community!"
+    content:
+      - text: "Connect with fellow investors, get real-time updates, and be part of our growing EscapeBot community."
+    button: "Join Discord"
+    url: "https://discord.gg/HkQXF3Yuqa"
+    image: "images/global/discord-mark-white.svg"
 
   social_media:
     github:
