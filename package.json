@@ -1,7 +1,7 @@
 {
-  "name": "TailBliss",
+  "name": "EscapeBot",
   "version": "0.6.1",
-  "description": "Hugo + Alpine.js + TailwindCSS",
+  "description": "EscapeBot Financial Forecasting Platform - Hugo + Alpine.js + TailwindCSS",
   "main": "index.js",
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.15",
@@ -21,25 +21,30 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nusserstudios/tailbliss.git"
+    "url": "git+https://github.com/asheinking/tailbliss.git"
   },
   "keywords": [
+    "finance",
+    "investing", 
+    "analytics",
+    "forecasting",
+    "machine-learning",
+    "financial-analysis",
+    "portfolio",
+    "trading",
+    "stocks",
+    "quant",
+    "fundamental-analysis",
     "hugo",
-    "tailwind",
     "tailwindcss",
     "alpinejs",
-    "minimal",
-    "responsive",
-    "light mode",
-    "dark mode",
-    "hugo blog",
-    "categories",
-    "tags"
+    "dark-mode",
+    "responsive"
   ],
-  "author": "NusserStudios",
+  "author": "EscapeBot Team",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/nusserstudios/tailbliss/issues"
+    "url": "https://github.com/asheinking/tailbliss/issues"
   },
-  "homepage": "https://github.com/nusserstudios/tailbliss"
+  "homepage": "https://github.com/asheinking/tailbliss"
 }

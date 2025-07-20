@@ -3,31 +3,51 @@ title: "About EscapeBot"
 date: 2023-07-15T11:10:36+08:00
 draft: false
 language: en
-description: About EscapeBot - Financial Forecasting Platform
+description: About EscapeBot - Empowering Investors Everywhere
 featured_image: ../assets/images/featured/featured-img-placeholder.png
 ---
 
 # About EscapeBot
 
-EscapeBot is a multi-layered tool in active development for forecasting financial performance and identifying investment insights. We've built a comprehensive platform that combines advanced data analysis with intuitive user interfaces to provide investors with powerful tools previously only available to large hedge funds.
+## Our Core Belief: "Empowering Investors Everywhere"
+
+This guiding principle drives us to provide institutional‐grade technology and data capabilities—once only available to large hedge funds—in a user‐friendly platform accessible to retail and professional investors alike.
 
 ## Our Mission
 
-Our mission is to democratize access to sophisticated financial analysis tools and bring advanced investment insights to everyday investors. We believe that by combining cutting-edge machine learning with comprehensive data integration, we can level the playing field and empower individual investors to make more informed decisions.
+At the core of our business is the desire to democratize sophisticated investment tools. We believe that any investor—from curious newcomers to seasoned professionals—can harness the power of modern, data‐driven investing when provided with the right tools, data, and community support.
 
-## Key Features
+## What We Offer
 
-### Sector-Level Analysis
-Our fundamental analysis engine examines companies at a sector level, providing comparative insights and identifying anomalies that might indicate investment opportunities or risks.
+### 🤖 Managed Quant Strategies
+**Proprietary AI Models**: Our fund's backbone is an advanced ML and fundamental engine that selects securities based on real‐time data, factoring in everything from company fundamentals to market sentiment.
 
-### Earnings Transcript Analysis
-We apply natural language processing to earnings call transcripts, extracting sentiment, key topics, and management confidence levels that might not be apparent from financial statements alone.
+**Customizable Parameters**: Investors can easily tweak risk tolerance, margin usage, or weighting of fundamental vs. technical signals, without coding from scratch.
 
-### Valuation Models
-Our platform integrates multiple valuation frameworks, from traditional DCF models to more sophisticated approaches that account for industry-specific metrics and growth patterns.
+**Full-Service Portfolio Management**: We provide comprehensive quantitative portfolio management based on fundamental machine learning and advanced trading and technical models.
 
-### Market Pattern Recognition
-Our pattern recognition algorithms identify market trends and historical analogues, providing context for current market conditions and potential future scenarios.
+### 📊 Data Aggregator App
+**Custom Data Queries**: Users can build personalized datasets from our extensive library—combining market data, fundamental metrics, sentiment analysis, and more.
+
+**Dataset Building**: Instantly assemble and export curated datasets for research or further modeling.
+
+**API Access**: For an additional fee, power‐users can tap directly into our real‐time data streams, hooking them into their own projects or trading bots.
+
+### 💼 TheValuator (DCF and Beyond)
+**Advanced Fundamental Modeling**: A beautifully designed interface for running live DCF (discounted cash flow) models, scenario analyses, and factor modeling.
+
+**Machine Learning Enhanced**: FCFF, FCFE, Relative, and Forecast Dividend models powered by sophisticated algorithms.
+
+**Dynamic Visualization**: Clean, intuitive charts make it easy to adjust assumptions and instantly see how valuations shift.
+
+**Integration**: Fully compatible with your investment account—use Valuator outputs to guide your custom or standard ML strategies.
+
+### 📝 Research & Community Platform
+**Investor Articles & Blogs**: Contribute or explore a range of research write‐ups from everyday investors or professional analysts.
+
+**Paid Investigative Articles**: For in‐depth company coverage or thematic market insights, we plan to commission talented writers, adding curated, premium research to the platform.
+
+**Collaboration & Learning**: The community can comment, discuss, and share insights—fostering an environment of collective intelligence.
 
 ## Why We're Different
 
@@ -35,7 +55,7 @@ Our pattern recognition algorithms identify market trends and historical analogu
 Rather than juggling multiple services (broker, data vendor, analytics suite), users get everything—advanced trading strategies, real‐time data, and analytics—in one seamless ecosystem.
 
 ### Customizable Yet Robust
-We give you the freedom to override picks or tailor risk parameters, but our core ML engine remains a well‐tested safety net, ensuring you're never left on your own to "DIY" from scratch.
+We give you the freedom to override picks or tailor risk, but our core ML engine remains a well‐tested safety net, ensuring you're never left on your own to "DIY" from scratch.
 
 ### Open Data Access
 Unlike closed‐box solutions, we let you dive under the hood—download datasets, run custom queries, or build new models on top of our data.
@@ -43,255 +63,45 @@ Unlike closed‐box solutions, we let you dive under the hood—download dataset
 ### Community & Education
 Through articles, blogs, and premium investigative content, we nurture a space where ideas are shared and tested openly, propelling collective improvement.
 
-## Our Core Values
+## Core Values
 
 ### Integrity
-We're built on honesty and fair value, always putting our users' interests first.
+Built on honesty and fair value. We always put our users' interests first and maintain transparent operations in everything we do.
 
 ### Diligence
-We're committed to rigorous risk management and delivering quality insights.
+Committed to rigorous risk management and delivering quality insights. We take a careful, thorough approach to all our analytical processes and investment strategies.
 
 ### Innovation
-We're constantly evolving to stay ahead of market trends and technological advancements.
+Constantly evolving to stay ahead of market trends and technological advancements. We push the boundaries of what's possible in financial technology.
+
+### Organisation
+Everything we do is clean, professional, and well-structured. We believe in maintaining high standards in both our technology and our user experience.
+
+## The Technology Behind EscapeBot
+
+### Prowess Oracle
+Our advanced ML and fundamental engine represents the backbone of our managed quant strategies. It analyzes real-time data, company fundamentals, market sentiment, and technical indicators to make sophisticated investment decisions.
+
+### TheValuator Platform
+A professional-grade financial modeling application that provides institutional-quality DCF valuations with clean architecture, rigorous modeling standards, and comprehensive analysis capabilities.
+
+### Data Infrastructure
+Enterprise-grade systems that aggregate data from multiple sources, ensuring quality, reliability, and real-time access to the information you need for informed decision-making.
 
 ## Looking Ahead
 
-We're continually expanding our toolkit—exploring new data sources, refining AI algorithms, and integrating fresh analytical modules into our "Adobe‐style" suite. Our vision is to become the go-to ecosystem for any investor seeking cutting-edge quant strategies, comprehensive data insights, and community collaboration.
+We're continually expanding our toolkit—exploring new data sources, refining AI algorithms, and integrating fresh analytical modules into our "Adobe‐style" suite. Our vision is to become the go‐to ecosystem for any investor seeking cutting‐edge quant strategies, comprehensive data insights, and community collaboration.
 
-## Join Us
+## Our Commitment to You
 
-Whether you're a seasoned investor or just starting out, EscapeBot offers the tools, data, and community to help you achieve your financial goals. Sign up today to experience the future of financial analysis.
+We're in the business of democratizing what Wall Street wants to keep for itself. For too long, sophisticated financial analysis has been locked behind institutional walls, accessible only to those with deep pockets and industry connections. 
 
-# h1 Heading :blush:
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+EscapeBot is changing that paradigm. Our cutting-edge algorithms and multi-layered analysis provide you with the same caliber of insights previously reserved for hedge fund elites. We don't just level the playing field—we tilt it in your favor.
 
+## Join Our Mission
 
-## Horizontal Rules
+Whether you're a seasoned investor seeking advanced tools or a newcomer looking to learn from the best, EscapeBot offers the technology, data, and community to help you achieve your financial goals. 
 
-***
+Together, we're building the future of democratized investing—one where sophisticated financial intelligence is available to everyone, not just the privileged few.
 
----
-
-___
-
-
-## Typographic replacements
-
-Enable typographer option to see result.
-
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
-
-test.. test... test..... test?..... test!....
-
-!!!!!! ???? ,,  -- ---
-
-"Smartypants, double quotes" and 'single quotes'
-
-
-## Emphasis
-
-**This is bold text**
-
-__This is bold text__
-
-*This is italic text*
-
-_This is italic text_
-
-~~Strikethrough~~
-
-
-## Blockquotes
-
-
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
-> > > ...or with spaces between arrows.
-
-
-## Lists
-
-Unordered
-
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-+ Very easy!
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-
-1. You can use sequential numbers...
-1. ...or keep all the numbers as `1.`
-
-Start numbering with offset:
-
-57. foo
-1. bar
-
-
-## Code
-
-Inline `code`
-
-Indented code
-
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-``` js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-
-## Tables
-
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-Right aligned columns
-
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-
-## Links
-
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
-
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-
-Like links, Images also have a footnote style syntax
-
-![Alt text][id]
-
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-
-
-## Plugins
-
-The killer feature of `markdown-it` is very effective support of
-[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
-
-
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
-
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
-
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
-
-
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
-
-- 19^th^
-- H~2~O
-
-
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
-
-++Inserted text++
-
-
-### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
-
-==Marked text==
-
-
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
-
-Footnote 1 link[^first].
-
-Footnote 2 link[^second].
-
-Inline footnote^[Text of inline footnote] definition.
-
-Duplicated footnote reference[^second].
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
-
-
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
-
-Term 1
-
-:   Definition 1
-with lazy continuation.
-
-Term 2 with *inline markup*
-
-:   Definition 2
-
-        { some code, part of Definition 2 }
-
-    Third paragraph of definition 2.
-
-_Compact style:_
-
-Term 1
-  ~ Definition 1
-
-Term 2
-  ~ Definition 2a
-  ~ Definition 2b
-
-
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
-
-This is HTML abbreviation example.
-
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
-
-*[HTML]: Hyper Text Markup Language
-
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
-
-::: warning
-*here be dragons*
-:::
+**Ready to get started?** [Explore our platform](/platform/) and discover how EscapeBot can transform your investment approach.

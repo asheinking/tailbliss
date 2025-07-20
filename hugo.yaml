@@ -1,4 +1,4 @@
-baseURL: ''
+baseURL: 'https://about.escape-bot.com'
 title: EscapeBot
 languageCode: en-us
 DefaultContentLanguage: en
@@ -49,40 +49,31 @@ markup:
 params:
   author: EscapeBot
   authorimage: ../assets/images/global/author.webp
-  og_image: /images/escapebot-cover.png
-  moto: "Financial Forecasting Reimagined"
-  description: "A multi-layered tool for forecasting financial performance and identifying investment insights. Features include sector-level analysis, earnings transcripts evaluation, valuation models, and market pattern recognition."
+  og_image: /images/tailbliss-cover.png
+  moto: "Empowering Investors Everywhere"
+  description: "Institutional-grade technology and data capabilities in a user-friendly platform. Managed quant strategies, advanced data aggregation, professional valuation tools, and a thriving research community for retail and professional investors alike."
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
   p1:
-    heading: "Our Mission"
+    heading: "Our Mission: Empowering Investors Everywhere"
     image: "images/pages/our-mission.png"
     content:
-      - text: "EscapeBot is democratizing access to sophisticated financial analysis tools that were previously only available to large hedge funds. We're bringing advanced investment insights to everyday investors through cutting-edge machine learning and comprehensive data integration."
-      - text: "Our platform combines structured and unstructured data to create a holistic, scalable approach to financial analysis. With sector-level company fundamentals, earnings transcript analysis, and pattern recognition, we provide insights that go beyond traditional analysis methods."
-      - text: "We believe in transparency, community, and continuous innovation. Our platform is designed to evolve with market conditions and user needs, always pushing the boundaries of what's possible in financial forecasting."
+      - text: "Our core belief is simple: 'Empowering Investors Everywhere.' This guiding principle drives us to provide institutional‐grade technology and data capabilities—once only available to large hedge funds—in a user‐friendly platform accessible to retail and professional investors alike."
+      - text: "We offer managed quant strategies with proprietary AI models, comprehensive data aggregation tools, advanced valuation modeling (TheValuator), and a thriving research community. Rather than juggling multiple services, users get everything in one seamless ecosystem."
+      - text: "At the core of our business is the desire to democratize sophisticated investment tools through highly sophisticated models, flexible data analytics, and a community that fosters shared knowledge and collective intelligence."
   p2:
-    heading: "Our Commitment to You"
+    heading: "Why We're Different"
     image: "images/pages/bull.png"
     content:
-      - text: "We're in the business of democratizing what Wall Street wants to keep for itself. For too long, sophisticated financial analysis has been locked behind institutional walls, accessible only to those with deep pockets and industry connections. EscapeBot is changing that paradigm. Our cutting-edge algorithms and multi-layered analysis provide you with the same caliber of insights previously reserved for hedge fund elites. We don't just level the playing field—we tilt it in your favor with tools that extract signal from noise, identify hidden patterns, and forecast market movements with remarkable precision. This isn't just about building another financial tool—it's about fundamentally transforming how individual investors access and leverage financial intelligence."
+      - text: "Holistic Platform: Rather than juggling multiple services (broker, data vendor, analytics suite), users get everything—advanced trading strategies, real‐time data, and analytics—in one seamless ecosystem. Customizable Yet Robust: We give you the freedom to override picks or tailor risk, but our core ML engine remains a well‐tested safety net. Open Data Access: Unlike closed‐box solutions, we let you dive under the hood—download datasets, run custom queries, or build new models on top of our data. Community & Education: Through articles, blogs, and premium investigative content, we nurture a space where ideas are shared and tested openly, propelling collective improvement."
   p3:
-    heading: "Why We're Different"
+    heading: "Our Core Values"
     content:
-      - text: "Unlike other financial tools, we offer a holistic platform that combines broker services, data vending, and analytics in one seamless ecosystem. Our customizable yet robust architecture gives you freedom to override picks or tailor risk profiles while maintaining our well-tested ML engine as a safety net."
+      - text: "Integrity: Built on honesty and fair value. Diligence: Committed to risk management and delivering quality. Innovation: Constantly evolving to stay ahead. Organisation: Everything we do is clean and professional."
     links:
-      - text: Learn more about our approach
-        url: "/about"
-    logos:
-      - identifier: a
-        image: "images/global/sample-logo.svg"
-        alt: "a"
-      - identifier: b
-      - identifier: c
-      - identifier: d
-      - identifier: e
-      - identifier: f
+      - text: Learn more about our platform
+        url: "/platform/"
   p4:
     heading: "Get The Latest"
     content:
@@ -106,16 +97,16 @@ params:
   social_media:
     github:
       enabled: true
-      url: 'https://github.com/nusserstudios'
+      url: 'https://github.com/asheinking/tailbliss'
     facebook:
-      enabled: true
-      url: 'https://facebook.com/nusserstudios'
+      enabled: false
+      url: 'https://facebook.com/escapebot'
     instagram:
-      enabled: true
-      url: 'https://instagram.com/nusserstudios'
+      enabled: false
+      url: 'https://instagram.com/escapebot'
     twitter:
-      enabled: true
-      url: 'https://twitter.com/nusserstudios'
+      enabled: false
+      url: 'https://twitter.com/escapebot'
     
 
 menu:
@@ -146,19 +137,19 @@ menu:
       weight: 60
   features:
     - identifier: fundamentals
-      name: Fundamental Analysis
+      name: Prowess Oracle
       url: /features/fundamentals/
       weight: 10
-    - identifier: earnings
-      name: Earnings Transcript Analysis
-      url: /features/earnings/
-      weight: 20
     - identifier: valuation
-      name: Valuation Models
+      name: TheValuator
       url: /features/valuation/
+      weight: 20
+    - identifier: earnings
+      name: Data Aggregator
+      url: /features/earnings/
       weight: 30
     - identifier: patterns
-      name: Market Pattern Recognition
+      name: Research Community
       url: /features/patterns/
       weight: 40
   dropdown:

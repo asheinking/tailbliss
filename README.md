@@ -34,8 +34,8 @@ This website is built with:
 ### Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/escapebot/escapebot.git
-cd escapebot
+git clone https://github.com/asheinking/tailbliss.git
+cd tailbliss
 ```
 
 2. Install dependencies:
